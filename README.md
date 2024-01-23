@@ -1,5 +1,5 @@
 # admi_movie
-Intro
+
 Programa que permite a los usuarios ver películas, calificarlas, agregar comentarios, La aplicación tiene dos roles de usuario: administrador y usuario básico. El administrador puede administrar la biblioteca de películas, agregar, listar, buscar, seleccionar, eliminar y editar películas, mientras que el usuario básico puede ver películas, calificarlas, ver y agregar comentarios.
 
 Características (Requerimientos):
