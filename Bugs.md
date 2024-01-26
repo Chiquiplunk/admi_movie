@@ -1,4 +1,4 @@
-[ ] 1) Al registrar películas con el campo "release date" ingresando un dato vacío se tiene:
+[x] 1) Al registrar películas con el campo "release date" ingresando un dato vacío se tiene:
 
 Exception in thread "main" java.time.format.DateTimeParseException: Text '' could not be parsed at index 0
 at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2052)
@@ -10,7 +10,7 @@ at Main.showAdminMenu(Main.java:174)
 at Main.main(Main.java:33)
 Terminando inmediatamente con la aplicación.
 
-[ ] 2) Los usuarios pueden registrarse con el mismo nombre varias veces si son diferentes letras mayúsculas o minúsculas.
+[x] 2) Los usuarios pueden registrarse con el mismo nombre varias veces si son diferentes letras mayúsculas o minúsculas.
 [ ] 3) Se pueden registrar los usuarios con campos vacíos para username y password.   
 [ ] 4) Agregar películas con los campos vacíos no debe ser permitido.
 [ ] 5) Se puede agregar películas con la misma información, duplicados.
