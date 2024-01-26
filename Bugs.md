@@ -12,8 +12,8 @@ Terminando inmediatamente con la aplicación.
 
 [x] 2) Los usuarios pueden registrarse con el mismo nombre varias veces si son diferentes letras mayúsculas o minúsculas.
 [x] 3) Se pueden registrar los usuarios con campos vacíos para username y password.   
-[ ] 4) Agregar películas con los campos vacíos no debe ser permitido.
-[ ] 5) Se puede agregar películas con la misma información, duplicados.
-[ ] 6) Registrar películas con mucha información o campos muy largos puede deformar la aplicación al momento de mostrarlos.
-[ ] 7) Un usuario puede votar (Rating) varias veces por la misma película.
-[ ] 8) La búsqueda de películas no parece estar completa, solo lista las películas de las que se puedan seleccionar alguna para verla.
+[x] 4) Agregar películas con los campos vacíos no debe ser permitido.
+[x] 5) Se puede agregar películas con la misma información, duplicados.
+[ ] 6) Un usuario puede votar (Rating) varias veces por la misma película.
+[ ] 7) La búsqueda de películas no parece estar completa, solo lista las películas de las que se puedan seleccionar alguna para verla.
+[ ] 8) Registrar películas con mucha información o campos muy largos puede deformar la aplicación al momento de mostrarlos.
