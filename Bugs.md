@@ -11,7 +11,7 @@ at Main.main(Main.java:33)
 Terminando inmediatamente con la aplicación.
 
 [x] 2) Los usuarios pueden registrarse con el mismo nombre varias veces si son diferentes letras mayúsculas o minúsculas.
-[ ] 3) Se pueden registrar los usuarios con campos vacíos para username y password.   
+[x] 3) Se pueden registrar los usuarios con campos vacíos para username y password.   
 [ ] 4) Agregar películas con los campos vacíos no debe ser permitido.
 [ ] 5) Se puede agregar películas con la misma información, duplicados.
 [ ] 6) Registrar películas con mucha información o campos muy largos puede deformar la aplicación al momento de mostrarlos.
