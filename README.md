@@ -9,3 +9,9 @@ Detalles de la película: la aplicación debe mostrar los detalles de la pelícu
 Calificaciones: los usuarios básicos deberían poder calificar películas en una escala del 1 al 5. La aplicación debe calcular la calificación promedio y mostrarla en la vista de detalles de la película.
 Comentarios: los usuarios básicos deberían poder agregar comentarios a las películas. La aplicación debería mostrar comentarios en la vista de detalles de la película.
 Búsqueda: los usuarios básicos deberían poder buscar películas por su título.
+
+Características (Pendientes):
+Lista de visualización: los usuarios básicos deberían poder agregar películas a su lista de visualización, lo que les permite guardar las películas que les interesa ver.
+Perfil de usuario: la aplicación debe permitir a los usuarios ver su perfil, que muestra su lista de seguimiento, películas vistas anteriormente y comentarios hechos.
+Administración de usuarios: el administrador debe poder administrar las cuentas de los usuarios, incluida la creación y eliminación de cuentas, y la asignación de funciones.
+Recomendaciones: la aplicación debe proporcionar recomendaciones de películas basadas en el historial de visualización y las calificaciones del usuario.
