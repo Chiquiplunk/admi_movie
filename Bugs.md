@@ -16,5 +16,5 @@ Terminando inmediatamente con la aplicación.
 [x] 5) Se puede agregar películas con la misma información, duplicados.
 [x] 6) Un usuario puede votar (Rating) varias veces por la misma película.
 [x] 7) La búsqueda de películas no parece estar completa, solo lista las películas de las que se puedan seleccionar alguna para verla.
-[ ] 8) Registrar películas con mucha información o campos muy largos puede deformar la aplicación al momento de mostrarlos.
+[x] 8) Registrar películas con mucha información o campos muy largos puede deformar la aplicación al momento de mostrarlos.
 [x] 9) El resultado de la búsqueda de películas da números incompletos(filtrados)
